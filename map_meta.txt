@@ -1,0 +1,94 @@
+chunksize = 5
+mg_biome_np_heat = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 3
+	offset = 50
+	persistence = 0.5
+	scale = 50
+	seed = 5349
+	spread = (1000,1000,1000)
+}
+mg_biome_np_heat_blend = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 2
+	offset = 0
+	persistence = 1
+	scale = 1.5
+	seed = 13
+	spread = (8,8,8)
+}
+mg_biome_np_humidity = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 3
+	offset = 50
+	persistence = 0.5
+	scale = 50
+	seed = 842
+	spread = (1000,1000,1000)
+}
+mg_biome_np_humidity_blend = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 2
+	offset = 0
+	persistence = 1
+	scale = 1.5
+	seed = 90003
+	spread = (8,8,8)
+}
+mg_flags = caves, dungeons, light, decorations
+mg_name = flat
+mgflat_cave_width = 0.09
+mgflat_ground_level = 8
+mgflat_hill_steepness = 64
+mgflat_hill_threshold = 0.45
+mgflat_lake_steepness = 48
+mgflat_lake_threshold = -0.45
+mgflat_large_cave_depth = -33
+mgflat_np_cave1 = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 3
+	offset = 0
+	persistence = 0.5
+	scale = 12
+	seed = 52534
+	spread = (61,61,61)
+}
+mgflat_np_cave2 = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 3
+	offset = 0
+	persistence = 0.5
+	scale = 12
+	seed = 10325
+	spread = (67,67,67)
+}
+mgflat_np_filler_depth = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 3
+	offset = 0
+	persistence = 0.7
+	scale = 1.2
+	seed = 261
+	spread = (150,150,150)
+}
+mgflat_np_terrain = {
+	flags = defaults
+	lacunarity = 2
+	octaves = 5
+	offset = 0
+	persistence = 0.6
+	scale = 1
+	seed = 7244
+	spread = (600,600,600)
+}
+mgflat_spflags = nolakes, nohills
+seed = 441842751342072605
+water_level = 1
+[end_of_params]

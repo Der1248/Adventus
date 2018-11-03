@@ -1,0 +1,15 @@
+gameid = adventus
+backend = sqlite3
+creative_mode = true
+enable_damage = false
+server_announce = false
+load_mod_picture = false
+load_mod_jacobs_ladder = true
+load_mod_slimenodes = true
+load_mod_jumping = true
+load_mod_bakedclay = false
+load_mod_maptools = false
+load_mod_morecommands = false
+load_mod_inventory_plus = false
+load_mod_quests = false
+load_mod_sample_quest = false
