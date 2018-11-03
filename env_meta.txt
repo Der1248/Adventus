@@ -1,0 +1,7 @@
+day_count = 3
+game_time = 53391
+last_clear_objects_time = 0
+lbm_introduction_times = :doors:replace_doors_door_glass~45680;:doors:replace_doors_door_obsidian_glass~45680;:doors:replace_doors_door_steel~45680;:doors:replace_doors_door_wood~45680;
+lbm_introduction_times_version = 1
+time_of_day = 9720
+EnvArgsEnd
