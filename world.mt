@@ -1,0 +1,12 @@
+gameid = adventus
+backend = sqlite3
+creative_mode = true
+enable_damage = false
+load_mod_picture = false
+load_mod_walking_light = false
+load_mod_worldedit_commands = false
+load_mod_worldedit = false
+player_backend = files
+server_announce = true
+load_mod_mobs = false
+load_mod_mila = false
